@@ -1,12 +1,57 @@
-# React + Vite
+# 🛒 React Cart App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and elegant Amazon-style cart built with **React**, **Recoil** for state management, and deployed using **Vercel**.
 
-Currently, two official plugins are available:
+![Screenshot](./assets/images/Screenshot_1.png)
+![Screenshot](./assets/images/Screenshot_2.png)
+![Screenshot](./assets/images/Screenshot_3.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Add items to the cart
+- Add items to wishlist
+- Load more products from API
+- Global state management with Recoil
+- Fast deployment with Vercel
+- Persistent UI using sticky layout
+
+---
+
+## Tech Stack
+
+- **React** (Vite)
+- **Recoil** (State management)
+- **Tailwind CSS** (Styling)
+- **Axios** (API calls)
+- **Vercel** (Hosting)
+
+---
+
+## Preview
+
+Live Demo: [https://react-cart-app.vercel.app](https://react-cart-app.vercel.app)
+
+---
+
+## API Used:
+
+Dummy JSON: [https://dummyjson.com/docs/products](https://dummyjson.com/docs/products)
+
+---
+
+## Installation
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/tarnija11/react-cart-app.git
+   cd react-cart-app
+
+2. **Install Dependencies**
+   ```bash
+   npm install
+
+2. **Run the App**
+   ```bash
+   npm run dev
