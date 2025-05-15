@@ -2,9 +2,9 @@
 
 A simple and elegant Amazon-style cart built with **React**, **Recoil** for state management, and deployed using **Vercel**.
 
-![Screenshot](./assets/images/Screenshot_1.png)
-![Screenshot](./assets/images/Screenshot_2.png)
-![Screenshot](./assets/images/Screenshot_3.png)
+![Screenshot](./src/assets/images/Screenshot_1.png)
+![Screenshot](./src/assets/images/Screenshot_2.png)
+![Screenshot](./src/assets/images/Screenshot_3.png)
 
 ---
 
