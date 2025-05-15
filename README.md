@@ -2,10 +2,6 @@
 
 A simple and elegant Amazon-style cart built with **React**, **Recoil** for state management, and deployed using **Vercel**.
 
-![Screenshot](./src/assets/images/Screenshot_1.png)
-![Screenshot](./src/assets/images/Screenshot_2.png)
-![Screenshot](./src/assets/images/Screenshot_3.png)
-
 ---
 
 ## Features
@@ -55,3 +51,9 @@ Dummy JSON: [https://dummyjson.com/docs/products](https://dummyjson.com/docs/pro
 2. **Run the App**
    ```bash
    npm run dev
+
+
+![Screenshot](./src/assets/images/Screenshot_1.png)
+![Screenshot](./src/assets/images/Screenshot_2.png)
+![Screenshot](./src/assets/images/Screenshot_3.png)
+
