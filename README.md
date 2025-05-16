@@ -27,7 +27,7 @@ A simple and elegant Amazon-style cart built with **React**, **Recoil** for stat
 
 ## Preview
 
-Live Demo: [https://react-cart-app.vercel.app](https://react-cart-app.vercel.app)
+Live Demo: [https://react-cart-app-mbd7.vercel.app/](https://react-cart-app-mbd7.vercel.app/)
 
 ---
 
